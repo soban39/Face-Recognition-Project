@@ -1,3 +1,4 @@
+#i took the dataset from kaggle for this weather forecasting project
 #!/usr/bin/env python
 # coding: utf-8
 
